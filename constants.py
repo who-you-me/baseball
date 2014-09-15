@@ -13,6 +13,6 @@ TEAMS = {}
 for year in range(2005, 2012):
     TEAMS[year] = teams_until_2011
 
-for year in range(2012, 2014):
+for year in range(2012, 2015):
     TEAMS[year] = teams_latest
 

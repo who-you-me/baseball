@@ -37,7 +37,7 @@ def get_header(year, category, division, team):
     return header
 
 if __name__ == "__main__":
-    years = range(2005, 2014)
+    years = range(2005, 2015)
     stats_b = []
     stats_p = []
 
